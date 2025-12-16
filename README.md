@@ -346,17 +346,6 @@ Obtenez votre clé API gratuite sur [TMDB](https://www.themoviedb.org/settings/a
 
 ---
 
-## 📈 Métriques de Performance
-
-### Temps de chargement initial
-![Temps de chargement](./screenshots/performance-load.png)
-
-### Nombre de re-renders
-![Re-renders comparaison](./screenshots/performance-rerenders.png)
-
-### Mémoire utilisée
-![Utilisation mémoire](./screenshots/performance-memory.png)
-
 ---
 
 ## 🎨 Technologies Utilisées
@@ -388,23 +377,7 @@ Obtenez votre clé API gratuite sur [TMDB](https://www.themoviedb.org/settings/a
 
 ---
 
-## 🎯 Conclusion et Recommandations
 
-### 🏆 Recommandation Générale : **Zustand**
-Pour la plupart des projets modernes, **Zustand** offre le meilleur compromis entre simplicité, performance, et fonctionnalités.
-
-### 📊 Choix selon le contexte :
-
-| Scénario | Choix recommandé | Raison |
-|----------|------------------|---------|
-| Petit projet / Prototype | **useContext** | Simple et natif |
-| Projet personnel / Startup | **Zustand** | Rapide et flexible |
-| Grande entreprise | **Redux Toolkit** | Standard établi |
-| Performance critique | **Zustand** | Re-renders optimaux |
-| Équipe débutante | **useContext** | Facile à apprendre |
-| Projet legacy Redux | **Redux Toolkit** | Migration facile |
-
----
 
 ## 👨‍💻 Auteur
 
