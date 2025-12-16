@@ -221,9 +221,6 @@ const toggleFavorite = useMoviesStore(state => state.toggleFavorite);
 toggleFavorite(movieId);
 ```
 
-#### 📸 Captures - Zustand
-![Architecture Zustand](./screenshots/zustand-architecture.png)
-![Implémentation Zustand](./screenshots/zustand-code.png)
 
 ---
 
